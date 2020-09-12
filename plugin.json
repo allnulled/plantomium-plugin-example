@@ -1,4 +1,6 @@
 {
-	"vendor": "plantomium",
-	"plugin": "example"
+	"plugin": "plantomium/example",
+	"git": "https://github.com/allnulled/plantomium-plugin-example.git",
+	"branch": "master",
+	"json": "https://raw.githubusercontent.com/allnulled/plantomium-plugin-example/master/plugin.json"
 }
